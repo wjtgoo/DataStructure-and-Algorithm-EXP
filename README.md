@@ -1,4 +1,4 @@
-# DataStructure and Algorithm Task
+# DataStructure and Algorithm experiments
 ## CUST DSA TASK 2020 Aultumn
 ### 1顺序表(Sequence List)
 ### 2单链表(Single list)
